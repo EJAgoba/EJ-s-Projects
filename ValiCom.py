@@ -25,7 +25,7 @@ country_codes = {
 # Tkinter GUI with Security Analysis Features
 root = tk.Tk()
 root.title("ValiCOm")
-root.geometry("340x230")  # Adjusted size for a compact look
+root.geometry("340x230")
 root.configure(bg="white")
 
 # Main Interface
