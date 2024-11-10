@@ -1,7 +1,7 @@
 import Tkinter as tk
 from validate_email import validate_email
 import phonenumbers
-from PIL import Image, ImageTk  # Make sure to install the pillow library if you haven't already
+from PIL import Image, ImageTk 
 
 # Define country codes
 country_codes = {
